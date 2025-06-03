@@ -1,0 +1,36 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Nisarga - Resume'
+theme = 'papermod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowWordCount = false
+  ShowFullTextinRSS = true
+  ShowPageNums = false
+  ShowToc = true
+  TocOpen = false
+  ShowTaxonomies = false
+
+[menu]
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3

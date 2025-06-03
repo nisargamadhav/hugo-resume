@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nisarga - Resume</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Nisarga - Resume</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Profile Image&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/profile.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m Nisarga Madhav, a passionate Senior Software Engineer and Tech Lead with over 8 years of experience building scalable distributed systems and leading high-performing engineering teams. Currently pursuing my Master of Engineering Management at Northwestern University, I combine deep technical expertise with strategic leadership to drive innovation in data management and cloud technologies.&lt;/p&gt;
+&lt;p&gt;My journey began in Bangalore, India, where I earned my Computer Science degree from PES University, and has taken me through exciting roles at companies like Akamai Technologies, Capillary Technologies, and most recently Komprise, where I led transformative projects involving petabyte-scale data migrations and patented storage technologies.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img alt="Profile Image" loading="lazy" src="/images/profile.jpg"></p>
+<h2 id="about-me">About Me</h2>
+<p>Hello! I&rsquo;m Nisarga Madhav, a passionate Senior Software Engineer and Tech Lead with over 8 years of experience building scalable distributed systems and leading high-performing engineering teams. Currently pursuing my Master of Engineering Management at Northwestern University, I combine deep technical expertise with strategic leadership to drive innovation in data management and cloud technologies.</p>
+<p>My journey began in Bangalore, India, where I earned my Computer Science degree from PES University, and has taken me through exciting roles at companies like Akamai Technologies, Capillary Technologies, and most recently Komprise, where I led transformative projects involving petabyte-scale data migrations and patented storage technologies.</p>
+<p>I&rsquo;m passionate about solving complex technical challenges while mentoring the next generation of engineers. Having conducted over 250 interviews and mentored more than 25 engineers throughout my career, I believe in the power of collaborative learning and knowledge sharing.</p>
+<h2 id="professional-interests">Professional Interests</h2>
+<ul>
+<li>
+<p><strong>Distributed Systems &amp; Cloud Architecture</strong>: Designing and implementing scalable systems that handle massive data workloads across cloud platforms like AWS, Azure, and hybrid environments</p>
+</li>
+<li>
+<p><strong>Data Management &amp; Analytics</strong>: Building intelligent data workflows and analytics engines that drive business value, particularly in the storage optimization and data lifecycle management space</p>
+</li>
+<li>
+<p><strong>Technical Leadership &amp; Team Building</strong>: Leading cross-functional teams, establishing engineering best practices, and creating cultures of innovation and excellence</p>
+</li>
+<li>
+<p><strong>Performance Optimization</strong>: Developing solutions that dramatically improve system performance, from 25x acceleration in data transfers to 22% improvements in crawler performance</p>
+</li>
+<li>
+<p><strong>Enterprise Software Development</strong>: Creating secure, scalable multi-tenant systems that meet enterprise compliance requirements while delivering exceptional user experiences</p>
+</li>
+</ul>
+<h2 id="personal-interests">Personal Interests</h2>
+<ul>
+<li>
+<p><strong>Continuous Learning</strong>: Currently expanding my knowledge through my Master&rsquo;s program, staying current with emerging technologies, and exploring the intersection of engineering and business strategy</p>
+</li>
+<li>
+<p><strong>Mentorship &amp; Knowledge Sharing</strong>: Actively mentoring junior engineers and contributing to the tech community through code reviews, technical discussions, and interview processes</p>
+</li>
+<li>
+<p><strong>Problem Solving</strong>: Whether it&rsquo;s optimizing Elasticsearch queries or architecting data transfer solutions, I thrive on tackling complex technical challenges that have real-world impact</p>
+</li>
+<li>
+<p><strong>Innovation &amp; Patents</strong>: Contributing to cutting-edge technologies like Transparent Move Technology™ and developing novel approaches to data management challenges</p>
+</li>
+<li>
+<p><strong>Global Perspective</strong>: Having worked across different continents and cultures, I enjoy collaborating with diverse teams and bringing varied perspectives to technical solutions</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
+&lt;p&gt;Feel free to reach out to me through any of the following channels:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:nisargamadhava@gmail.com&#34;&gt;nisargamadhava@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/nisarga-madhav/&#34;&gt;https://www.linkedin.com/in/nisarga-madhav/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/nisargamadhav%5D&#34;&gt;https://github.com/nisargamadhav]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="get-in-touch">Get in Touch</h2>
+<p>Feel free to reach out to me through any of the following channels:</p>
+<ul>
+<li>Email: <a href="mailto:nisargamadhava@gmail.com">nisargamadhava@gmail.com</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/nisarga-madhav/">https://www.linkedin.com/in/nisarga-madhav/</a></li>
+<li>GitHub: <a href="https://github.com/nisargamadhav%5D">https://github.com/nisargamadhav]</a></li>
+</ul>
+<p>I&rsquo;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;nisarga-madhav&#34;&gt;Nisarga Madhav&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Chicago, IL&lt;/strong&gt; (Willing to relocate)&lt;br&gt;
+📧 &lt;a href=&#34;mailto:nisargamadhava@gmail.com&#34;&gt;nisargamadhava@gmail.com&lt;/a&gt; | 📱 773-312-6456&lt;br&gt;
+🔗 &lt;a href=&#34;https://www.linkedin.com/in/nisarga-madhav&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;
+&lt;p&gt;A seasoned Senior Software Engineer and Tech Lead with 8+ years of experience in distributed systems, cloud technologies, and team leadership. Proven track record of leading high-impact projects that drive significant cost savings and revenue growth while mentoring teams and scaling enterprise-level data management platforms.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;northwestern-university---evanston-il&#34;&gt;Northwestern University - Evanston, IL&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Master of Engineering Management&lt;/strong&gt; | &lt;em&gt;Sept 2024 - May 2025&lt;/em&gt;&lt;br&gt;
+GPA: 3.9/4.0&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="nisarga-madhav">Nisarga Madhav</h1>
+<p><strong>Chicago, IL</strong> (Willing to relocate)<br>
+📧 <a href="mailto:nisargamadhava@gmail.com">nisargamadhava@gmail.com</a> | 📱 773-312-6456<br>
+🔗 <a href="https://www.linkedin.com/in/nisarga-madhav">LinkedIn</a></p>
+<h2 id="professional-summary">Professional Summary</h2>
+<p>A seasoned Senior Software Engineer and Tech Lead with 8+ years of experience in distributed systems, cloud technologies, and team leadership. Proven track record of leading high-impact projects that drive significant cost savings and revenue growth while mentoring teams and scaling enterprise-level data management platforms.</p>
+<h2 id="education">Education</h2>
+<h3 id="northwestern-university---evanston-il">Northwestern University - Evanston, IL</h3>
+<p><strong>Master of Engineering Management</strong> | <em>Sept 2024 - May 2025</em><br>
+GPA: 3.9/4.0</p>
+<h3 id="pes-university---bangalore-india">PES University - Bangalore, India</h3>
+<p><strong>Bachelor of Engineering, Computer Science</strong> | <em>Jul 2012 - Jul 2016</em><br>
+GPA: 9.2/10</p>
+<h2 id="experience">Experience</h2>
+<h3 id="komprise">Komprise</h3>
+<p><strong>Senior Software Engineer - Tech Lead</strong> | <em>Jul 2022 - Sept 2024</em></p>
+<ul>
+<li>Led a team of 5 engineers and drove projects around the patented Transparent Move Technology™ that archives cold data to cheaper storages without disrupting users, contributing to massive savings in storage costs for customers</li>
+<li>Spearheaded efforts to efficiently migrate 100s of petabytes of data to Amazon Web Services (AWS) S3 through seamless integration of AWS Snowball Edge devices into Komprise&rsquo;s platform, contributing not only to multifold performance gains but also to strengthening partnership with AWS</li>
+<li>Led a team of 3 to extend deep analytics engine and develop Deep Analytics Actions, enabling actions on granular data. This evolved into Smart Data Workflows, driving customer upsell, expansion, and tremendous revenue growth</li>
+<li>Developed Komprise Hypertransfer, which accelerated data transfer to cloud by creating virtual channels to speed up problematic SMB data migrations across WAN by 25x</li>
+<li>Rearchitected product to scale its data transfer capabilities from 1 target to 10s of targets</li>
+<li>Enhanced communication between Komprise Cloud File System, a file system interface, and cloud to handle long-running operations and reduce data inconsistencies on cloud storage</li>
+</ul>
+<p><strong>Software Engineer</strong> | <em>May 2020 - Jul 2022</em></p>
+<ul>
+<li>Redesigned and implemented a secure, scalable multi-tenant credential management system using AWS Key Management, ensuring compliance with customer security requirements and migrating existing customers</li>
+<li>Optimized search performance of the Global File Index by refining Elasticsearch queries, achieving a 5% improvement</li>
+<li>Extended data management capabilities from on-premises storage to cloud platforms including AWS S3, Azure Blob, Wasabi, and Pure</li>
+<li>Improved file system crawler performance by 22% by introducing an alternate, unordered crawling method, optimizing processes for analyzing, archiving, restoring, and migrating petabytes of data</li>
+<li>Resolved customer escalations and delivered timely hotfixes to ensure customer satisfaction</li>
+<li>Mentored over 20 new hires, ensured high-quality standards through detailed design and code reviews and conducted 200+ interviews to build top-performing teams</li>
+</ul>
+<h3 id="capillary-technologies">Capillary Technologies</h3>
+<p><strong>Software Development Engineer II</strong> | <em>Oct 2019 - May 2020</em></p>
+<ul>
+<li>Implemented features like multi-program enrollment, API-based points and tier imports, event field support, and trigger-based points conversion on the Capillary Intelligent Loyalty platform, handling thousands of requests per second and enabling the onboarding of Tata, Capillary&rsquo;s largest customer</li>
+</ul>
+<h3 id="akamai-technologies">Akamai Technologies</h3>
+<p><strong>Software Engineer II</strong> | <em>Jun 2018 - Oct 2019</em></p>
+<ul>
+<li>Developed business-critical applications, automating sales, onboarding, and billing processes, accelerating production deployment by 25%</li>
+<li>Mentored 5 new hires and conducted 50+ interviews</li>
+</ul>
+<p><strong>Software Engineer</strong> | <em>Jun 2016 - Jun 2018</em></p>
+<ul>
+<li>Introduced Akamai Helpdesk Console, which resulted in an average reduction of ~10 minutes in the resolution time of service requests. Received recognition for it</li>
+</ul>
+<h3 id="aruba-networks">Aruba Networks</h3>
+<p><strong>Software Development Engineering Intern</strong> | <em>Jan 2016 - Jun 2016</em></p>
+<ul>
+<li>Built several command line interfaces (CLIs) to diagnose the newly built 7280 Milagro, an ArubaOS controller platform</li>
+</ul>
+<h2 id="skills">Skills</h2>
+<h3 id="technical-skills">Technical Skills</h3>
+<p><strong>Languages:</strong> Java, Python<br>
+<strong>Tools and Technologies:</strong> Linux, Elasticsearch, Kubernetes, Docker, SQL, NoSQL, Spring, AWS, Microservices, Kafka, Redis, Git, REST, OAuth, Maven, Salesforce, Jenkins, JIRA, OOP, Django, Grafana</p>
+<h3 id="industry-knowledge">Industry Knowledge</h3>
+<ul>
+<li>Technical Leadership</li>
+<li>System Design</li>
+<li>Cross-functional Team Leadership</li>
+<li>Agile Methodologies</li>
+</ul>
+<h2 id="contact-information">Contact Information</h2>
+<ul>
+<li><strong>Email:</strong> <a href="mailto:nisargamadhava@gmail.com">nisargamadhava@gmail.com</a></li>
+<li><strong>Phone:</strong> 773-312-6456</li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nisarga-madhav">linkedin.com/in/nisarga-madhav</a></li>
+<li><strong>Location:</strong> Chicago, IL (Willing to relocate)</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
